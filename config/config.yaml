@@ -1,0 +1,4 @@
+env: "local"
+http_server:
+  port: 8000
+  
